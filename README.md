@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rstellar
-- 👀 Here is my [personal site](ryanstellar.com)
+- 👀 Here is my [personal site](www.ryanstellar.com)
 - 🌱 I’m working on [StandardCare.us](https://standardcare.us/)
 - 💞️ I’m looking to collaborate on fixing the healthcare system.
 - 📫 Connect on [Linkedin](https://www.linkedin.com/in/rstellar) to reach me.
