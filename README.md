@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rstellar
 - 👀 Here is my [personal site](https://ryanstellar.com)
-- 🌱 I’m working on [StandardCare.us](https://standardcare.us/)
-- 💞️ I’m looking to collaborate on fixing the healthcare system.
+- 🌱 I’m working on [Retkan.com](https://retkan.com)
+- 💞️ I’m looking to collaborate peopel interested in blockchain and decentralization of sensitive data.
 - 📫 Connect on [Linkedin](https://www.linkedin.com/in/rstellar) to reach me.
 
 <!---
